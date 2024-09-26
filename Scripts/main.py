@@ -53,6 +53,14 @@ def exponent(a, b):
         return exponent(a, b-1) * a
 
 
+def listsum(list):
+    if len(list) == 0:
+        return 0
+    elif len(list) == 1:
+        return list[0]
+    else:
+        return list[0] + listsum(list[1:])
+
 
 if __name__ == "__main__":
-    print(exponent(10, 10))
+    print(listsum([1, 2, 3]))
