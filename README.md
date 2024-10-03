@@ -1,4 +1,4 @@
-# 1. félév anyaga a python órákról  
+# 1. félév
   
 Ezek a fájlok az ókorból fennmaradt leletek, amik olyan állapotban vannak, amilyenben éppen hagytam  
   
