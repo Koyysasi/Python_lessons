@@ -2,6 +2,6 @@
 
 Frissen és ropogósan az IDE-ből  
   
-Directed by: András  
-Made by: Koga  
-Special thanks to: Git
+Directed by: András   
+Made by: Dani  
+Special thanks to: VS Code
