@@ -1,4 +1,4 @@
 # 2. félév
 2. félév anyaga a python órákról
-Directed by: András
-Made by: Koga
+\n Directed by: András
+\n Made by: Koga
