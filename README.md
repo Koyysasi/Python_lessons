@@ -1,5 +1,4 @@
 # 2. félév
-2. félév anyaga a python órákról
 
 Frissen és ropogósan az IDE-ből  
   
