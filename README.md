@@ -1,3 +1,4 @@
-# Python órákról fennmaradt ókori leletek
-# Külön branchben van az első és a második félév anyaga
-# glhf
+# 2. félév
+2. félév anyaga a python órákról
+Directed by: András
+Made by: Koga
