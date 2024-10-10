@@ -21,7 +21,7 @@ def poloska():
 def random1():
 	value = []
 	for i in range(10000000):
-		j = random.randint(0,4)
+		j = random.randint(0, 4)
 		value.append(j)
 	ratio = []
 	for i in range(5):
