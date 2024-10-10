@@ -12,7 +12,7 @@ def fact(n):
         return n * fact(n-1)
 
 
-def fact2(n, result = 1):
+def fact2(n, result=1):
     if n <= 0:
         return result
     else:
@@ -53,13 +53,13 @@ def exponent(a, b):
         return exponent(a, b-1) * a
 
 
-def listsum(list):
-    if len(list) == 0:
+def listsum(lista):
+    if len(lista) == 0:
         return 0
-    elif len(list) == 1:
-        return list[0]
+    elif len(lista) == 1:
+        return lista[0]
     else:
-        return list[0] + listsum(list[1:])
+        return lista[0] + listsum(lista[1:])
 
 
 if __name__ == "__main__":
