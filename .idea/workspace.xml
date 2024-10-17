@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2024-09-26">
-      <change afterPath="$PROJECT_DIR$/Scripts/uj-temakor.py" afterDir="false" />
+    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2024-10-10">
+      <change afterPath="$PROJECT_DIR$/Scripts/24-10-17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/24-10-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/24-10-10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Scripts/24-10-10.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Scripts/24-10-17.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.24-10-10.executor": "Run",
+    "Python.24-10-17.executor": "Run",
     "Python.main.executor": "Run",
     "Python.package.executor": "Run",
     "Python.uj-temakor.executor": "Run",
@@ -131,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727973330191</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2024-10-10">
+      <option name="closed" value="true" />
+      <created>1728579108425</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728579108425</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
