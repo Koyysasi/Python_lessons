@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2024-10-10" />
+    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2024-10-24">
+      <change afterPath="$PROJECT_DIR$/Scripts/24-11-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/24-11-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/aaa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +34,9 @@
     <setting file="file://$PROJECT_DIR$/Scripts/24-10-10.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Scripts/24-10-17.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Scripts/24-10-24.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Scripts/24-11-07.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Scripts/24-11-14.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Scripts/FindBruteForcePassword.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,6 +58,11 @@
     "Python.24-10-10.executor": "Run",
     "Python.24-10-17.executor": "Run",
     "Python.24-10-24.executor": "Run",
+    "Python.24-11-07.executor": "Run",
+    "Python.24-11-14.executor": "Run",
+    "Python.24-11-21.executor": "Run",
+    "Python.FindBruteForcePassword.executor": "Run",
+    "Python.aaa.executor": "Run",
     "Python.main.executor": "Run",
     "Python.package.executor": "Run",
     "Python.scratch.executor": "Run",
@@ -65,6 +78,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\koyys\PycharmProjects\Python\Scripts" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -169,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729788529217</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2024-10-24">
+      <option name="closed" value="true" />
+      <created>1729788548006</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729788548006</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +239,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024-09-26" />
     <MESSAGE value="2024-10-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-10-10" />
+    <MESSAGE value="2024-10-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-10-24" />
   </component>
 </project>
