@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "code": "^5.2.4",
+    "generator": "^1.0.1",
+    "yo": "^5.0.0"
+  }
+}
