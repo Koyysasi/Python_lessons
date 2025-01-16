@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2024-11-21">
-      <change afterPath="$PROJECT_DIR$/Scripts/24-11-07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/24-11-28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/24-12-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/24-12-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/aaa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/adat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/25-01-09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/asd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/library.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/library2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/olympics.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/aaa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/aaa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +68,8 @@
     "Python.24-11-28.executor": "Run",
     "Python.24-12-05.executor": "Run",
     "Python.24-12-12.executor": "Run",
+    "Python.25-01-09.executor": "Run",
+    "Python.25-01-16.executor": "Run",
     "Python.FindBruteForcePassword.executor": "Run",
     "Python.aaa.executor": "Run",
     "Python.main.executor": "Run",
@@ -79,6 +80,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "kogasemester2",
+    "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "configurable.group.editor"
   },
   "keyToStringList": {
@@ -91,6 +93,35 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\koyys\PycharmProjects\Python\Scripts" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="25-01-16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/25-01-16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.25-01-16" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -212,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732211478285</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2024-11-21">
+      <option name="closed" value="true" />
+      <created>1734025027441</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734025027441</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
