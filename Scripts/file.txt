@@ -1,0 +1,650 @@
+Év: 2016 Osztály: c Név: Bodnar Szilvia
+Év: 2019 Osztály: b Név: Rasztik Gyorgy
+Év: 2016 Osztály: e Név: Muller Reka
+Év: 2019 Osztály: b Név: Maltesics Fanni
+Év: 2017 Osztály: a Név: Csermak Edit
+Év: 2016 Osztály: a Név: Somlyo Ildiko
+Év: 2017 Osztály: c Név: Boros Petra
+Év: 2018 Osztály: d Név: Gaal Daniel
+Év: 2017 Osztály: a Név: Hirth Ferenc
+Év: 2018 Osztály: a Név: Nagy Katalin
+Év: 2018 Osztály: d Név: Csepregi Daniel
+Év: 2019 Osztály: b Név: Kovacs Orsolya
+Év: 2018 Osztály: e Név: Refi Csaba
+Év: 2018 Osztály: b Név: Denes Anna
+Év: 2018 Osztály: b Név: Szabo Brigitta
+Év: 2018 Osztály: c Név: Huszar Renato Pal
+Év: 2018 Osztály: d Név: Kovacs Zsofia
+Év: 2018 Osztály: d Név: Vavrek Kristof
+Év: 2016 Osztály: e Név: Hidas Reka
+Év: 2016 Osztály: d Név: Kun Michael
+Év: 2017 Osztály: a Név: Ruff Noemi
+Év: 2017 Osztály: b Név: Berze Eva
+Év: 2018 Osztály: a Név: Endredy Lakatos Margit
+Év: 2018 Osztály: b Név: Salanki Eszter Rita
+Év: 2019 Osztály: d Név: Magyar Vivien Evelin
+Év: 2017 Osztály: a Név: Csermak Roza
+Év: 2017 Osztály: d Név: Barta Gergo
+Év: 2016 Osztály: d Név: Dobos Andras
+Év: 2018 Osztály: a Név: Magat Klaudia
+Év: 2018 Osztály: c Név: Schmidt Borbala
+Év: 2019 Osztály: a Név: Szabo Mihaly
+Év: 2018 Osztály: d Név: Boganyi Margaret
+Év: 2019 Osztály: d Név: Weidinger Peter
+Év: 2017 Osztály: e Név: Petrik Zsofia
+Év: 2018 Osztály: a Név: Tolcsvay-Nagy Reka Luca
+Év: 2019 Osztály: e Név: Fabian Aniko
+Év: 2018 Osztály: c Név: Berndt Martin
+Év: 2019 Osztály: e Név: Matefi Mercedesz
+Év: 2019 Osztály: a Név: Matefi Emese
+Év: 2019 Osztály: d Név: Orso Andras
+Év: 2016 Osztály: e Név: Varga Zsuzsa
+Év: 2017 Osztály: a Név: Farkas Zsuzsa
+Év: 2017 Osztály: e Név: Romhanyi Daniel Robert
+Év: 2018 Osztály: e Név: Falvay Zsanett
+Év: 2018 Osztály: b Név: Szentes Zoltan
+Év: 2017 Osztály: c Név: Csepregi Gyorgy
+Év: 2018 Osztály: d Név: Romhanyi Rebeka
+Év: 2018 Osztály: b Név: Laczko Reka
+Év: 2017 Osztály: e Név: Kardos Istvan
+Év: 2016 Osztály: a Név: Janosi Mihaly
+Év: 2017 Osztály: b Név: Farkas Steven
+Év: 2017 Osztály: b Név: Horvath Janet
+Év: 2019 Osztály: e Név: Csaba Dora
+Év: 2017 Osztály: d Név: Kucsera Jesus
+Év: 2017 Osztály: c Név: Csepregi Mihaly
+Év: 2019 Osztály: a Név: LotsosRicky Kinga
+Év: 2018 Osztály: b Név: Hozman Richard
+Év: 2016 Osztály: d Név: Rasztik Dora
+Év: 2017 Osztály: a Név: Dohoczki Maria
+Év: 2019 Osztály: a Név: Maller Akos
+Év: 2018 Osztály: e Név: Bene Eszter
+Év: 2016 Osztály: b Név: Wagner Endre
+Év: 2016 Osztály: b Név: Bengi Sandor
+Év: 2017 Osztály: d Név: Lehotzky Oliver
+Év: 2016 Osztály: d Név: Bakos Reka
+Év: 2017 Osztály: b Név: Varga Zsofia
+Év: 2019 Osztály: b Név: Hangyasi Kristof
+Év: 2016 Osztály: d Név: Gonda Gyorgy
+Év: 2018 Osztály: c Név: Stang Tamas
+Év: 2019 Osztály: e Név: Nemeth Tamas
+Év: 2017 Osztály: e Név: Tapai Anne
+Év: 2017 Osztály: b Név: Deri Dina
+Év: 2017 Osztály: b Név: Madarasz Edina
+Év: 2019 Osztály: e Név: Lemak Veronika
+Év: 2016 Osztály: e Név: Kiraly Balint
+Év: 2017 Osztály: a Név: Kovacs Krisztina Judit
+Év: 2017 Osztály: b Név: Homola Sandor
+Év: 2016 Osztály: e Név: Dettai Felicia
+Év: 2018 Osztály: d Név: Novak Beata
+Év: 2019 Osztály: c Név: Hirth Janos
+Év: 2017 Osztály: b Név: Nagymarosy Natalie
+Év: 2016 Osztály: c Név: Mattyus Balazs
+Év: 2019 Osztály: a Név: Gonda Bela
+Év: 2016 Osztály: c Név: Wagner Istvan
+Év: 2017 Osztály: b Név: Hegyi Roza
+Év: 2017 Osztály: d Név: Hatala Roza
+Év: 2017 Osztály: e Név: Vaszil Krisztina
+Év: 2019 Osztály: d Név: Vanyur Reka
+Év: 2018 Osztály: d Név: Bajor Mark
+Év: 2019 Osztály: d Név: Kriszten David
+Év: 2016 Osztály: e Név: Molnar Adam
+Év: 2017 Osztály: e Név: Palinkas Antal
+Év: 2017 Osztály: c Név: Bruder Barbara
+Év: 2018 Osztály: b Név: Pifku Bence
+Év: 2019 Osztály: e Név: Joo Peter
+Év: 2016 Osztály: b Név: Kiss Beatrix
+Év: 2016 Osztály: c Név: Sandor Miklos
+Év: 2016 Osztály: b Név: Berezvai Jozsef
+Év: 2019 Osztály: a Név: Lehotzky Arthur
+Év: 2017 Osztály: e Név: Mangult Bettina
+Év: 2019 Osztály: b Név: Joo Krisztian
+Év: 2019 Osztály: c Név: Sitku Natalia
+Év: 2019 Osztály: a Név: Bodnar Richard
+Év: 2017 Osztály: b Név: Szabo David
+Év: 2018 Osztály: b Név: Wolff Viktoria
+Év: 2019 Osztály: e Név: Varga Gergely
+Év: 2019 Osztály: b Név: Monostori Mihaly
+Év: 2016 Osztály: b Név: Balogh Dora
+Év: 2018 Osztály: e Név: Nagy Judit
+Év: 2016 Osztály: b Név: Kulcsar Tamas
+Év: 2018 Osztály: c Név: Hangyasi Boglarka
+Év: 2019 Osztály: e Név: Kovacs Gabor
+Év: 2018 Osztály: e Név: Pridalko Vilmos
+Év: 2016 Osztály: a Név: Kovacs Aron
+Év: 2017 Osztály: b Név: Buchanan Zoltan Csaba
+Év: 2019 Osztály: a Név: Molnar Viktoria
+Év: 2016 Osztály: d Név: Fule Noemi
+Év: 2016 Osztály: c Név: Erdohelyi Csilla
+Év: 2018 Osztály: a Név: Renyi Ferenc
+Év: 2018 Osztály: d Név: Kophazi Ildiko
+Év: 2018 Osztály: d Név: Kis Viktoria
+Év: 2018 Osztály: e Név: Fuller Zsuzsanna
+Év: 2019 Osztály: c Név: Csanyi Zsuzsa
+Év: 2017 Osztály: b Név: Sarvari Piroska
+Év: 2017 Osztály: e Név: Balazs Pal
+Év: 2018 Osztály: b Név: Mezo Sandor
+Év: 2016 Osztály: c Név: Wellington Tunde
+Év: 2018 Osztály: e Név: Gombos Beata
+Év: 2017 Osztály: a Név: Bordas Vivien Evelin
+Év: 2018 Osztály: c Név: Kocsis Gergo
+Év: 2019 Osztály: e Név: Callahan Kitti
+Év: 2019 Osztály: a Név: Bodor Bettina
+Év: 2018 Osztály: d Név: Schiller Krisztina
+Év: 2016 Osztály: a Név: Balogh Agnes
+Év: 2019 Osztály: b Név: Vadkerti Viktoria
+Év: 2019 Osztály: d Név: Lehotzky Gabor
+Év: 2017 Osztály: c Név: Keri Marta
+Év: 2017 Osztály: a Név: Sarosdi Dora
+Év: 2017 Osztály: c Név: Hargitai Ildiko
+Év: 2017 Osztály: b Név: Mate Aron
+Év: 2016 Osztály: c Név: Stang Istvan
+Év: 2017 Osztály: c Név: Pal Janos
+Év: 2017 Osztály: c Név: Negyesi Attila
+Év: 2019 Osztály: c Név: Szalma Diana
+Év: 2019 Osztály: e Név: Szabo Jesus
+Év: 2017 Osztály: d Név: Tapay Janos Tamas
+Év: 2018 Osztály: a Név: Balazs Istvan
+Év: 2018 Osztály: e Név: Bogar Marta
+Év: 2018 Osztály: e Név: Toman Istvan
+Év: 2019 Osztály: a Név: Balogh Edina
+Év: 2019 Osztály: b Név: Nemeth Diana
+Év: 2018 Osztály: a Név: Lehotzky Adam Gabor
+Év: 2018 Osztály: c Név: Karatson Kristof
+Év: 2019 Osztály: d Név: Batkai Kinga
+Év: 2019 Osztály: c Név: Domokos Tunde
+Év: 2017 Osztály: d Név: Barkasz Csilla
+Év: 2018 Osztály: d Név: Hidas Zoltan Csaba
+Év: 2019 Osztály: b Név: Bohdaneczky Adrienn
+Év: 2018 Osztály: e Név: Hamza Vivien
+Év: 2019 Osztály: b Név: Valo Adam Gabor
+Év: 2017 Osztály: c Név: Mate Laszlo
+Év: 2016 Osztály: c Név: Bodnar Emese
+Év: 2019 Osztály: e Név: Jedlovszky Gellert Sandor
+Év: 2016 Osztály: a Név: Takacs Melinda
+Év: 2017 Osztály: b Név: Barta Gergo
+Év: 2016 Osztály: a Név: Somlyo Steven
+Év: 2016 Osztály: d Név: Lehotzky Janos
+Év: 2016 Osztály: e Név: Kiss Reka
+Év: 2019 Osztály: c Név: Hatala Ilona
+Év: 2017 Osztály: b Név: Nagy Janos
+Év: 2017 Osztály: a Név: Szekely Mate
+Év: 2019 Osztály: d Név: King Mercedesz
+Év: 2016 Osztály: a Név: Szabados Viktoria
+Év: 2019 Osztály: e Név: Tompos Adam Gabor
+Év: 2016 Osztály: d Név: Bauer Krisztina
+Év: 2016 Osztály: b Név: Major Anna
+Év: 2017 Osztály: c Név: Gyocsi Ildiko
+Év: 2019 Osztály: c Név: Fulop Tamas
+Év: 2016 Osztály: a Név: Vajda Fruzsina Borbala
+Év: 2017 Osztály: b Név: Magat Noemi
+Év: 2019 Osztály: a Név: Schmidt Andras
+Év: 2019 Osztály: e Név: Pinter Sandor
+Év: 2019 Osztály: c Név: Kiraly Istvan
+Év: 2019 Osztály: e Név: Bruder Krisztina
+Év: 2019 Osztály: e Név: Mattyus Diana
+Év: 2019 Osztály: a Név: Gerse Andras
+Év: 2016 Osztály: a Név: Elek Balazs
+Év: 2016 Osztály: a Név: Batkai Antal
+Év: 2017 Osztály: c Név: Csepregi Korl
+Év: 2018 Osztály: c Név: Dylski Judit
+Év: 2017 Osztály: b Név: Bodi Monika
+Év: 2017 Osztály: a Név: Kovacs Leila
+Év: 2016 Osztály: b Név: Rabai Viktoria
+Év: 2016 Osztály: c Név: Bolyos Borbala
+Év: 2016 Osztály: d Név: Ignacz Mercedesz Marta
+Év: 2019 Osztály: a Név: Bodor Klara
+Év: 2016 Osztály: d Név: Batkai Szabina
+Év: 2018 Osztály: c Név: Katona Boglarka
+Év: 2018 Osztály: b Név: Gaal Peter
+Év: 2019 Osztály: c Név: Kovacs Jozsef
+Év: 2018 Osztály: a Név: Domokos Krisztina
+Év: 2019 Osztály: d Név: TolcsvayNagy Daniel Robert
+Év: 2019 Osztály: b Név: Fialowski Olga Zsofia
+Év: 2016 Osztály: a Név: Kiraly Zoltan
+Év: 2016 Osztály: e Név: Csermak Henrik
+Év: 2017 Osztály: d Név: Ivancsik Edit
+Év: 2018 Osztály: b Név: Vagner Peter
+Év: 2017 Osztály: d Név: Elbert Bence
+Év: 2018 Osztály: b Név: Kun David
+Év: 2018 Osztály: c Név: Farkas Tunde
+Év: 2017 Osztály: d Név: Pazmany Emese
+Év: 2018 Osztály: d Név: Iszaly Karoly
+Év: 2018 Osztály: c Név: Bihacker Szabolcs Tivadar
+Év: 2018 Osztály: d Név: Karatson Patricia Mercedesz
+Év: 2018 Osztály: d Név: Laczkovics Lakatos Margit
+Év: 2016 Osztály: a Név: Kovacs Reka
+Év: 2017 Osztály: c Név: Ihasz Bernadett
+Év: 2017 Osztály: d Név: Molnar Krisztina
+Év: 2017 Osztály: e Név: Komlos Lakatos Margit
+Év: 2016 Osztály: e Név: Miskolczi Reka
+Év: 2016 Osztály: c Név: Borka Adam Gabor
+Év: 2016 Osztály: e Név: Hollos Eva
+Év: 2017 Osztály: b Név: Szalma Erno
+Év: 2017 Osztály: e Név: Bodnar Gyula
+Év: 2018 Osztály: b Név: Krizsan Adrienn
+Év: 2018 Osztály: e Név: Fekete Szilvia
+Év: 2016 Osztály: a Név: her Karoly
+Év: 2016 Osztály: a Név: Prokopp Reka
+Év: 2016 Osztály: c Név: Toman Zsofia
+Év: 2019 Osztály: e Név: Pazmany Alessandro
+Év: 2018 Osztály: e Név: Simon Szabolcs Tivadar
+Év: 2019 Osztály: e Név: Kuller Andrea
+Év: 2016 Osztály: d Név: Bognar Frank
+Év: 2017 Osztály: c Név: Szalma Luca Krisztina
+Év: 2018 Osztály: e Név: Keri Julio
+Év: 2017 Osztály: d Név: Beres Zoltan
+Év: 2018 Osztály: d Név: Farkas Janet
+Év: 2019 Osztály: b Név: Komlos Zoltan
+Év: 2017 Osztály: a Név: Wootsch Gergely
+Év: 2017 Osztály: b Név: Lehotzky Dorottya
+Év: 2017 Osztály: c Név: Valo Istvan
+Év: 2017 Osztály: c Név: Bilicska Daniel Robert
+Év: 2016 Osztály: b Név: Bako Balazs Istvan
+Év: 2018 Osztály: d Név: Vari Renata
+Év: 2019 Osztály: a Név: Callahan Attila
+Év: 2018 Osztály: b Név: Antalfi Akos
+Év: 2017 Osztály: b Név: Miller Gabor
+Év: 2018 Osztály: e Név: Lemak Andrea
+Év: 2016 Osztály: d Név: Csanyi Zsuzsa
+Év: 2018 Osztály: a Név: Csetnegi Andre
+Év: 2019 Osztály: d Név: Cselotei Balazs
+Év: 2019 Osztály: d Név: Voros Kitti Noemi
+Év: 2016 Osztály: b Név: Denes Ildiko
+Év: 2016 Osztály: a Név: Czulek Gyorgy
+Év: 2017 Osztály: d Név: Berze Dalma
+Év: 2016 Osztály: d Név: Lendvai Gyula
+Év: 2019 Osztály: d Név: Kelan Istvan
+Év: 2017 Osztály: a Név: Boka Daniel Andras
+Év: 2016 Osztály: b Név: Pinter Tunde
+Év: 2017 Osztály: e Név: Peter Fruzsina
+Év: 2018 Osztály: d Név: Pazmany Kristof
+Év: 2017 Osztály: e Név: Arkossy Daniel
+Év: 2018 Osztály: e Név: Berzlanovich Imre
+Év: 2016 Osztály: c Név: Denes Zsuzsa
+Év: 2016 Osztály: c Név: Bakos Gergely
+Év: 2019 Osztály: c Név: Hegedus Tamas
+Év: 2019 Osztály: d Név: Banfi Akos
+Év: 2016 Osztály: d Név: Kovacs Laura
+Év: 2019 Osztály: e Név: Denes Gyorgy
+Év: 2018 Osztály: b Név: Horvath Gyorgy
+Év: 2018 Osztály: e Név: Klezly Bettina
+Év: 2017 Osztály: d Név: Szabo Ildiko
+Év: 2016 Osztály: b Név: Barkasz Katalin
+Év: 2019 Osztály: d Név: Goldberg Marta
+Év: 2016 Osztály: a Név: Farkas Gyorgy
+Év: 2017 Osztály: c Név: Emho Petra
+Év: 2018 Osztály: b Név: Koschler Tamas
+Év: 2019 Osztály: a Név: Madarasz Nikolett
+Év: 2018 Osztály: b Név: Lemak Janos
+Év: 2016 Osztály: a Név: Kovacs Lajos
+Év: 2017 Osztály: b Név: Orso Christopher
+Év: 2016 Osztály: b Név: Prokopp Viktoria
+Év: 2016 Osztály: e Név: Beke Andras
+Év: 2017 Osztály: a Név: Denes Anna
+Év: 2018 Osztály: b Név: Zsigmondi Zoltan
+Év: 2018 Osztály: b Név: Csetnegi Szilvia
+Év: 2019 Osztály: d Név: Ruff Gabor
+Év: 2016 Osztály: c Név: Szabo Attila
+Év: 2016 Osztály: d Név: Fried Tamas
+Év: 2019 Osztály: c Név: Szabo Allan
+Év: 2019 Osztály: c Név: Forgacs Richard
+Év: 2019 Osztály: b Név: Arkossy Reka
+Év: 2019 Osztály: d Név: Hangyasi Gyula
+Év: 2016 Osztály: a Név: Hegedus Agnes
+Év: 2016 Osztály: b Név: Malovics Reka Luca
+Év: 2019 Osztály: c Név: Molnar Tamas
+Év: 2019 Osztály: a Név: Illyes Erno
+Év: 2019 Osztály: c Név: Cselotei Maria
+Év: 2016 Osztály: b Név: Toman Beatrix
+Év: 2017 Osztály: e Név: Meszaros Andrea
+Év: 2016 Osztály: b Név: Totka Gergo
+Év: 2019 Osztály: a Név: Mitlasovszki Mercedesz
+Év: 2016 Osztály: b Név: Horvath Csilla Livia
+Év: 2016 Osztály: c Név: Scholz Akos
+Év: 2019 Osztály: e Név: Farkas Edit
+Év: 2018 Osztály: d Név: Unk Anne
+Év: 2019 Osztály: e Név: Monostori Gergo
+Év: 2019 Osztály: a Név: Feher Viktoria
+Év: 2019 Osztály: e Név: Gombor Thomas
+Év: 2019 Osztály: e Név: Saghy Istvan
+Év: 2019 Osztály: e Név: Katona Peter
+Év: 2017 Osztály: e Név: Fialowski Szilvia
+Év: 2018 Osztály: b Név: Kovacs Jozsef
+Év: 2019 Osztály: c Név: Wellington Peter
+Év: 2017 Osztály: a Név: Suyama Krisztian
+Év: 2016 Osztály: b Név: Unk Eszter
+Év: 2017 Osztály: e Név: Kettesy Zsofia
+Év: 2017 Osztály: a Név: Illes Viktoria
+Év: 2019 Osztály: e Név: Peter Peter
+Év: 2017 Osztály: d Név: Fried Eszter Leticia
+Év: 2019 Osztály: a Név: Varga Brigitta
+Év: 2018 Osztály: e Név: Callahan Eszter
+Év: 2019 Osztály: e Név: Eszes Ildiko
+Év: 2018 Osztály: b Név: Mezo Istvan
+Év: 2018 Osztály: b Név: Pomothy Gyorgy
+Év: 2019 Osztály: d Név: Berndt Oliver
+Év: 2016 Osztály: a Név: Pinter Tunde
+Év: 2017 Osztály: c Név: Marton Richard
+Év: 2018 Osztály: d Név: Borka Edina
+Év: 2016 Osztály: d Név: Balogh Imre
+Év: 2019 Osztály: b Név: Alahrawi Balint
+Év: 2018 Osztály: c Név: Csaba Attila
+Év: 2018 Osztály: d Név: Homola Leila
+Év: 2018 Osztály: d Név: Palfi Leila
+Év: 2017 Osztály: b Név: Ivacs Zsolt
+Év: 2019 Osztály: e Név: Farkas Dora
+Év: 2016 Osztály: a Név: Mitlasovszki Eszter Adel
+Év: 2017 Osztály: d Név: Komlos Allan
+Év: 2016 Osztály: e Név: Szabo Janos Tamas
+Év: 2017 Osztály: e Név: Vido Jesus
+Év: 2018 Osztály: c Név: Csermenyi Balint
+Év: 2016 Osztály: e Név: Bilicska Gyorgy
+Év: 2019 Osztály: b Név: Berghoffer David
+Év: 2016 Osztály: d Név: Bohdaneczky Arthur
+Év: 2016 Osztály: b Név: Maller Attila
+Év: 2018 Osztály: d Név: Muller Karoly
+Év: 2019 Osztály: b Név: Mangult Reka
+Év: 2016 Osztály: b Név: Czmarko Istvan
+Év: 2017 Osztály: a Név: Jambrik Daniel
+Év: 2017 Osztály: a Név: Lukacs Viktor
+Év: 2019 Osztály: e Név: Bolyos Adam Ferenc
+Év: 2017 Osztály: c Név: Hermann Istvan
+Év: 2017 Osztály: d Név: Nagy Istvan
+Év: 2018 Osztály: a Név: Bekes Viktoria
+Év: 2016 Osztály: e Név: Elek Anne
+Év: 2018 Osztály: b Név: Balazs Nikolett
+Év: 2016 Osztály: c Név: Ilcsik Bence
+Év: 2019 Osztály: e Név: Saghy Dorottya
+Év: 2019 Osztály: a Név: Palfi Vilmos
+Év: 2019 Osztály: a Név: Berky Renato Pal
+Év: 2019 Osztály: c Név: Peacock Katalin
+Év: 2017 Osztály: b Név: Reyes Adrienn
+Év: 2016 Osztály: a Név: Kovacs Patrik
+Év: 2016 Osztály: c Név: Gulyas Krisztina
+Év: 2018 Osztály: d Név: Rakoczi Frank
+Év: 2017 Osztály: d Név: Barkasz Matyas
+Év: 2017 Osztály: d Név: Beres Gyula
+Év: 2018 Osztály: c Név: Pasztor Zsofia
+Év: 2018 Osztály: d Név: Mangult Akos
+Év: 2016 Osztály: a Név: Kovacs Sandor
+Év: 2019 Osztály: c Név: Banfi Patricia
+Év: 2019 Osztály: c Név: Orzoi Gyorgy
+Év: 2018 Osztály: c Név: Bodnar Orsolya
+Év: 2017 Osztály: e Név: Kophazi Reka Nora
+Év: 2016 Osztály: d Név: Ivacs Jozsef
+Év: 2019 Osztály: e Név: Sarkozi Bonita
+Év: 2016 Osztály: c Név: Denes Szabina
+Év: 2016 Osztály: e Név: Tombor Mercedesz
+Év: 2017 Osztály: a Név: Erdei Daniel Andras
+Év: 2018 Osztály: d Név: King Tamas
+Év: 2018 Osztály: d Név: Erdelyi Botond
+Év: 2019 Osztály: c Név: Baksay Ildiko
+Év: 2018 Osztály: a Név: Palfi Gyorgy
+Év: 2019 Osztály: b Név: Gyocsi Edit
+Év: 2019 Osztály: c Név: Matefi Antal Ferenc
+Év: 2019 Osztály: d Név: Ivancsik Reka
+Év: 2018 Osztály: c Név: Gonda Edina
+Év: 2019 Osztály: d Név: Vaszil Milan
+Év: 2018 Osztály: e Név: Willkins Anna
+Év: 2016 Osztály: d Név: Emho Oliver
+Év: 2016 Osztály: e Név: Meszaros Arpad
+Év: 2018 Osztály: c Név: Zsigmondi Eszter
+Év: 2017 Osztály: a Név: Regos Peter
+Év: 2019 Osztály: e Név: Patkai Netta
+Év: 2019 Osztály: b Név: Kiss Balazs Istvan
+Év: 2019 Osztály: a Név: Busi Dorottya
+Év: 2019 Osztály: c Név: Bajor Brigitta
+Év: 2016 Osztály: a Név: Vajnai Zsofia
+Év: 2016 Osztály: e Név: Kovacs Lujein
+Év: 2016 Osztály: a Név: Vancza Korl
+Év: 2018 Osztály: b Név: Denes Katalin
+Év: 2017 Osztály: d Név: Szikra Judit
+Év: 2016 Osztály: c Név: Jenes Andras
+Év: 2016 Osztály: c Név: Molnar Attila
+Év: 2017 Osztály: c Név: Miskolczi Gabor
+Év: 2019 Osztály: a Név: Fried Viktoria
+Év: 2016 Osztály: a Név: Szabados Marcell
+Év: 2019 Osztály: c Név: Csetnegi Zsofia
+Év: 2016 Osztály: a Név: Csanyi Zsofia
+Év: 2019 Osztály: e Név: Banfi Kristof
+Év: 2016 Osztály: d Név: Fekete Istvan
+Év: 2017 Osztály: d Név: Bartha Eva
+Év: 2017 Osztály: c Név: Pomothy Gergo
+Év: 2019 Osztály: b Név: Fialowski Pal
+Év: 2017 Osztály: e Név: Tverdota Nikolett
+Év: 2019 Osztály: e Név: Kovacs Marta
+Év: 2016 Osztály: d Név: Berghoffer Theodor
+Év: 2018 Osztály: e Név: Nagy Bettina
+Év: 2018 Osztály: a Név: Fialowski Bettina
+Év: 2019 Osztály: b Név: Bator Adam
+Év: 2018 Osztály: b Név: Fekete Kinga
+Év: 2018 Osztály: a Név: Dodsworth Noemi
+Év: 2019 Osztály: c Név: Somlyo Karoly
+Év: 2018 Osztály: e Név: Ivancsik Istvan
+Év: 2018 Osztály: a Név: Komlos Korl
+Év: 2017 Osztály: a Név: Jenes Beatrix
+Év: 2019 Osztály: a Név: Kovacs Botond
+Év: 2018 Osztály: a Név: Miskolczi Marton Istvan
+Év: 2016 Osztály: a Név: Nemeth Eszter Rita
+Év: 2017 Osztály: e Név: Szedresi Gergely
+Év: 2016 Osztály: b Név: Bodor Gabor
+Év: 2018 Osztály: a Név: Beres Ferenc
+Év: 2017 Osztály: c Név: Mate Pal
+Év: 2016 Osztály: e Név: Sitku Patricia Mercedesz
+Év: 2016 Osztály: b Név: Nemeth Ferenc
+Év: 2019 Osztály: a Név: Selley Szilvia
+Év: 2019 Osztály: b Név: Hangyasi Gabor
+Év: 2017 Osztály: e Név: Dorfler Tamas
+Év: 2016 Osztály: e Név: Bordas Janos Oszkar
+Év: 2019 Osztály: e Név: Varga Theodor
+Év: 2018 Osztály: d Név: Wellington Zsofia
+Év: 2017 Osztály: a Név: Csermenyi Zoltan
+Év: 2016 Osztály: a Név: Olay Zoltan
+Év: 2017 Osztály: c Név: Kiss Barbara
+Év: 2018 Osztály: d Név: Drexler Eszter
+Év: 2016 Osztály: a Név: Ivancsik Endre
+Év: 2016 Osztály: b Név: Hargitai Krisztina
+Év: 2019 Osztály: e Név: Szabados Alexandra
+Év: 2018 Osztály: a Név: Jakobi Lujein
+Év: 2017 Osztály: b Név: Czmarko Viktoria
+Év: 2018 Osztály: a Név: Kovacs Balazs Istvan
+Év: 2019 Osztály: c Név: Kelan Zsofia
+Év: 2019 Osztály: d Név: Patkai Christopher
+Év: 2017 Osztály: e Név: Kiss Mercedesz
+Év: 2019 Osztály: a Név: Szabo Gyula
+Év: 2019 Osztály: b Név: Schneider Edit
+Év: 2018 Osztály: c Név: Bartha Zoltan Csaba
+Év: 2019 Osztály: d Név: Kovacs Veronika
+Év: 2019 Osztály: e Név: Ivancsik Matyas
+Év: 2017 Osztály: c Név: Toman Barbara
+Év: 2018 Osztály: c Név: Selley Bernadett
+Év: 2019 Osztály: b Név: Arkossy Vivien Evelin
+Év: 2019 Osztály: b Név: Macz Balazs
+Év: 2016 Osztály: b Név: Szabo Andras
+Év: 2018 Osztály: a Név: Bilicska Viktoria
+Év: 2016 Osztály: c Név: Negyesi Andras
+Év: 2017 Osztály: c Név: Kovacs Anna
+Év: 2016 Osztály: b Név: Bodnar Frank
+Év: 2017 Osztály: b Név: Farkas David
+Év: 2016 Osztály: c Név: Vari Erno
+Év: 2019 Osztály: b Név: Komlos Aniko
+Év: 2019 Osztály: b Név: Peter Dora
+Év: 2019 Osztály: e Név: Pasztor Tunde
+Év: 2017 Osztály: e Név: LotsosRicky Viktoria
+Év: 2017 Osztály: c Név: Meszaros Zoltan
+Év: 2017 Osztály: c Név: Karatson Eszter Adel
+Év: 2018 Osztály: c Név: Palfi Eszter
+Év: 2018 Osztály: d Név: Kovacs Tamas
+Év: 2019 Osztály: d Név: Kiss Renato Pal
+Év: 2016 Osztály: c Név: Batkai Csaba
+Év: 2017 Osztály: e Név: Kovacs David
+Év: 2016 Osztály: d Név: Erdei Gyorgy
+Év: 2018 Osztály: c Név: Fulop Bence
+Év: 2016 Osztály: c Név: Nemeth Nikolett
+Év: 2018 Osztály: c Név: Lorinczi Barbara
+Év: 2016 Osztály: e Név: Kovacs Istvan
+Év: 2017 Osztály: a Név: Fekete Daniel
+Év: 2017 Osztály: e Név: Hozman Sandor
+Év: 2017 Osztály: d Név: Pronay Tibor
+Év: 2016 Osztály: b Név: Homola Emese
+Év: 2016 Osztály: a Név: Hollos Adrienn
+Év: 2017 Osztály: e Név: Sarvari Imre
+Év: 2018 Osztály: e Név: Batkai Richard
+Év: 2019 Osztály: c Név: Malovics Gergely
+Év: 2018 Osztály: e Név: Kardos Thomas
+Év: 2019 Osztály: e Név: Somogyvari Katalin
+Év: 2016 Osztály: c Név: Szanto Barnabas
+Év: 2018 Osztály: b Név: Kovacs Tunde
+Év: 2018 Osztály: b Név: Bernath Peter
+Év: 2019 Osztály: e Név: Vasarhelyi Noemi
+Év: 2019 Osztály: a Név: Onodi Eszter Adel
+Év: 2016 Osztály: c Név: Maltesics Gergely
+Év: 2019 Osztály: c Név: Halasz Reka
+Év: 2018 Osztály: b Név: Lorinczi Orsolya
+Év: 2018 Osztály: c Név: Varga Balazs
+Év: 2016 Osztály: d Név: Csornyei Bence
+Év: 2016 Osztály: b Név: Csornyei Csaba
+Év: 2018 Osztály: b Név: Bohdaneczky Marta
+Év: 2017 Osztály: a Név: Rabai Aron
+Év: 2019 Osztály: d Név: Bartha Emil
+Év: 2019 Osztály: a Név: Kis Martin
+Év: 2019 Osztály: b Név: Erdei Maria
+Év: 2019 Osztály: e Név: Csermenyi Andras
+Év: 2019 Osztály: e Név: Deri Gergely
+Év: 2017 Osztály: d Név: Varga Laura
+Év: 2018 Osztály: b Név: Nagy Marcell
+Év: 2017 Osztály: d Név: Farkas Zoltan
+Év: 2019 Osztály: b Név: Ignacz Balazs
+Év: 2017 Osztály: b Név: Izsak Kristof
+Év: 2019 Osztály: d Név: Nagy Julio
+Év: 2016 Osztály: b Név: Kovacs Peter
+Év: 2018 Osztály: b Név: Kovacs Zsofia
+Év: 2019 Osztály: d Név: Boros Tamas
+Év: 2016 Osztály: a Név: Drexler Ildiko
+Év: 2017 Osztály: a Név: Fulop Peter
+Év: 2017 Osztály: a Név: Goldberg Sandor
+Év: 2017 Osztály: e Név: Szalma Fruzsina
+Év: 2018 Osztály: c Név: Somlyo Martin
+Év: 2019 Osztály: c Név: Klezly Bence
+Év: 2016 Osztály: b Név: Kucsera Csaba
+Év: 2017 Osztály: a Név: Pinter Melinda
+Év: 2016 Osztály: c Név: Sandor Evelin
+Év: 2016 Osztály: b Név: Mattyus Anna
+Év: 2016 Osztály: e Név: Elek Bela
+Év: 2018 Osztály: a Név: Pal Antal
+Év: 2019 Osztály: c Név: Csigas Maria
+Év: 2017 Osztály: b Név: Reitmeyer Gabor
+Év: 2019 Osztály: b Név: Pridalko Zsolt
+Év: 2017 Osztály: b Név: Bajor Sandor
+Év: 2017 Osztály: c Név: Csepregi Kristof
+Év: 2017 Osztály: c Név: Nagy Dina
+Év: 2019 Osztály: d Név: Tompos Richard
+Év: 2019 Osztály: d Név: Weidinger Viktoria
+Év: 2019 Osztály: c Név: Berki Klaudia
+Év: 2016 Osztály: b Név: Emho Dorottya
+Év: 2019 Osztály: e Név: Hardy Csilla
+Év: 2018 Osztály: a Név: Farkas Andre
+Év: 2016 Osztály: a Név: Balogh Aniko
+Év: 2016 Osztály: e Név: Szentpetery Beatrix
+Év: 2019 Osztály: c Név: Salanki Fanni
+Év: 2017 Osztály: d Név: Csigas Jozsef
+Év: 2018 Osztály: c Név: Jambor Dora
+Év: 2017 Osztály: a Név: Lehotzky Istvan
+Év: 2018 Osztály: b Név: Miller Mercedesz Marta
+Év: 2019 Osztály: b Név: Izsak Andrea
+Év: 2019 Osztály: d Név: Kiss Kristof
+Év: 2017 Osztály: a Név: Resch Nancy
+Év: 2016 Osztály: d Név: Bodecs Roza
+Év: 2018 Osztály: c Név: Simon Istvan
+Év: 2019 Osztály: d Név: Refi Zoltan
+Év: 2017 Osztály: d Név: Jenes Arpad
+Év: 2017 Osztály: b Név: Maltesics Eszter
+Év: 2017 Osztály: e Név: Peacock Kristen
+Év: 2017 Osztály: e Név: Tapay Istvan
+Év: 2016 Osztály: c Név: Zsok Gabor
+Év: 2017 Osztály: b Név: Demeter Bence
+Év: 2017 Osztály: b Név: Vancza Zoltan
+Év: 2017 Osztály: d Név: Endredy Adam Gabor
+Év: 2019 Osztály: d Név: Davolio Fruzsina Borbala
+Év: 2018 Osztály: b Név: Szentes Maria
+Év: 2017 Osztály: b Név: Mozsar Rezso
+Év: 2016 Osztály: d Név: Hozman Piroska
+Év: 2018 Osztály: b Név: Goldberg Beata
+Év: 2016 Osztály: c Név: Sandor Tamas
+Év: 2017 Osztály: e Név: Demeny Daniel
+Év: 2019 Osztály: b Név: Marton Dorottya
+Év: 2018 Osztály: c Név: Kovacs Mercedesz Marta
+Év: 2016 Osztály: b Név: Tombor Erzsebet
+Év: 2016 Osztály: a Név: Farkas Monika
+Év: 2019 Osztály: d Név: Schneider Renato Pal
+Év: 2018 Osztály: e Név: Domokos Gergely
+Év: 2017 Osztály: b Név: Kulcsar Istvan
+Év: 2016 Osztály: d Név: Varga Emese
+Év: 2019 Osztály: c Név: Vari Laura
+Év: 2018 Osztály: a Név: Muller Nikolett
+Év: 2016 Osztály: d Név: Sarvari Dorottya
+Év: 2017 Osztály: e Név: Vas Laura
+Év: 2017 Osztály: a Név: Hamza Erno Gergo
+Év: 2018 Osztály: d Név: Pomothy Eleonora
+Év: 2016 Osztály: b Név: Kiss Zsuzsa
+Év: 2017 Osztály: c Név: Bodor Attila
+Év: 2018 Osztály: c Név: Forgacs Reka
+Év: 2019 Osztály: b Név: Cselotei Gergo
+Év: 2017 Osztály: c Név: Weidinger Richard
+Év: 2018 Osztály: b Név: Kovacs Anne
+Év: 2018 Osztály: c Név: Fuller Gabor
+Év: 2019 Osztály: a Név: Kovacs Natalia
+Év: 2018 Osztály: c Név: Forgacs Beatrix
+Év: 2017 Osztály: e Név: Lemak Netta
+Év: 2018 Osztály: c Név: Keri Fruzsina Borbala
+Év: 2018 Osztály: a Név: Selley Krisztian
+Év: 2019 Osztály: d Név: Elek Andrew
+Év: 2016 Osztály: b Név: Gergely Anna
+Év: 2017 Osztály: a Név: Palinkas Luca Sara
+Év: 2018 Osztály: b Név: Kallai Arnold
+Év: 2019 Osztály: d Név: Pifku Bettina
+Év: 2019 Osztály: d Név: Buros Laszlo Endre
+Év: 2018 Osztály: d Név: Neher Sandor
+Év: 2017 Osztály: c Név: Mirak Viktoria
+Év: 2017 Osztály: b Név: Bognar Andras
+Év: 2017 Osztály: d Név: Bartha Balazs
+Év: 2019 Osztály: b Név: Rosta Kristen
+Év: 2017 Osztály: a Név: Tompos Istvan
+Év: 2019 Osztály: b Név: Lendvai Kinga
+Év: 2019 Osztály: c Név: Deri Zsofia
+Év: 2018 Osztály: a Név: Zilahy Janet
+Év: 2017 Osztály: c Név: Czulek Veronika
+Év: 2018 Osztály: a Név: Klezly Dezso
+Év: 2016 Osztály: d Név: Mate Rahel
+Év: 2016 Osztály: e Név: Mattyus Nikoletta
+Év: 2016 Osztály: c Név: Berki Laszlo Ferenc
+Év: 2016 Osztály: e Név: Kiss Dezso
+Év: 2018 Osztály: d Név: Iszaly Mercedesz
+Év: 2016 Osztály: d Név: Denes Gergo
+Év: 2016 Osztály: a Név: Smith Gabor
+Év: 2018 Osztály: c Név: Pal Krisztina Judit
+Év: 2019 Osztály: c Név: Horvath Gabor
+Év: 2017 Osztály: a Név: Somogyvari Laura
+Év: 2018 Osztály: e Név: Pifku Erno Gergo
+Év: 2016 Osztály: b Név: Berezvai Gergely Bence
+Év: 2018 Osztály: a Név: Szekely Netta
+Év: 2019 Osztály: e Név: Gombaszogi Peter
+Év: 2019 Osztály: a Név: Dorfler Barbara
+Év: 2019 Osztály: d Név: Pucheli Edina
+Év: 2016 Osztály: b Név: Nemeth Tunde
+Év: 2019 Osztály: d Név: Katona Balazs
+Év: 2017 Osztály: c Név: Olay Kitti Noemi
+Év: 2017 Osztály: d Név: Falvay Veronika
+Év: 2019 Osztály: c Név: Arany Olga
+Év: 2016 Osztály: a Név: Farkas Virag
+Év: 2019 Osztály: c Név: Knipf Krisztian
+Év: 2017 Osztály: d Név: Izsak Zoltan
+Év: 2017 Osztály: e Név: Tompos Zsofia
+Év: 2016 Osztály: c Név: Fialowski Tunde
+Év: 2017 Osztály: d Név: Onodi Ildiko
+Év: 2019 Osztály: c Név: Molnar Agnes
+Év: 2018 Osztály: b Név: Pucheli Katalin
+Év: 2018 Osztály: b Név: Eizen Szabina
+Év: 2018 Osztály: c Név: Major Tamas
+Év: 2016 Osztály: c Név: Krizsan Vivien Evel
