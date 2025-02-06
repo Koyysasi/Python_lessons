@@ -13,7 +13,7 @@ HEIGHT = 500
 
 METEOR_WIDTH,METEOR_HEIGHT = 50,50
 
-METEOR_VEL = 10
+METEOR_VEL = 2
 
 METEOR_1_DIR = random.randint(0, 359)
 METEOR_2_DIR = random.randint(0, 359)
@@ -44,8 +44,8 @@ BACKGROUND = pg.transform.scale(pg.image.load(os.path.join('Assets', 'space.png'
 BULLET_HIT_SOUND = pg.mixer.Sound(os.path.join('Assets', 'explosion.wav'))
 BULLET_FIRE_SOUND = pg.mixer.Sound(os.path.join('Assets', 'laser.wav'))
 
-HEALTH_FONT = pg.font.SysFont('webdings', 40)
-WINNER_FONT = pg.font.SysFont('wingdings', 100)
+HEALTH_FONT = pg.font.SysFont('arial', 40)
+WINNER_FONT = pg.font.SysFont('algerian', 100)
 
 FPS = 60
 VELOCITY = 5
@@ -112,7 +112,6 @@ def draw_window(red, yellow, red_health, yellow_health, red_bullets, yellow_bull
     for bullet in yellow_bullets:
         pg.draw.rect(WINDOW, YELLOW, bullet)
 
-
     pg.display.update()
 
 
@@ -151,6 +150,7 @@ def meteor_controller(meteor1, meteor2, meteor3):
     if meteor3.y < 1:
         meteor3.y = 499
 
+
 def draw_winner(text):
     draw_text = WINNER_FONT.render(text, True, WHITE)
     WINDOW.blit(draw_text, (WIDTH/2-draw_text.get_width()/2, HEIGHT/2-draw_text.get_height()/2))
@@ -158,7 +158,7 @@ def draw_winner(text):
     pg.time.delay(5000)
 
 
-def handle_bullets(yellow_bullets, red_bullets, yellow, red):
+def handle_bullets(yellow_bullets, red_bullets, yellow, red, meteor1, meteor2, meteor3):
     for bullet in yellow_bullets:
         bullet.x += BULLET_VEL
         if red.colliderect(bullet):
@@ -166,13 +166,44 @@ def handle_bullets(yellow_bullets, red_bullets, yellow, red):
             yellow_bullets.remove(bullet)
         elif bullet.x > WIDTH:
             yellow_bullets.remove(bullet)
+        elif meteor1.colliderect(bullet) or meteor2.colliderect(bullet) or meteor3.colliderect(bullet):
+            yellow_bullets.remove(bullet)
     for bullet in red_bullets:
-        bullet.x += BULLET_VEL
+        bullet.x -= BULLET_VEL
         if yellow.colliderect(bullet):
             pg.event.post(pg.event.Event(YELLOW_HIT))
             red_bullets.remove(bullet)
         elif bullet.x < 0:
             red_bullets.remove(bullet)
+        elif meteor1.colliderect(bullet) or meteor2.colliderect(bullet) or meteor3.colliderect(bullet):
+            red_bullets.remove(bullet)
+
+    if yellow.colliderect(meteor1):
+        meteor1.x = 480
+        meteor1.y = 240
+        pg.event.post(pg.event.Event(YELLOW_HIT))
+    if yellow.colliderect(meteor2):
+        meteor2.x = 480
+        meteor2.y = 240
+        pg.event.post(pg.event.Event(YELLOW_HIT))
+    if yellow.colliderect(meteor3):
+        meteor3.x = 480
+        meteor3.y = 240
+        pg.event.post(pg.event.Event(YELLOW_HIT))
+
+    if red.colliderect(meteor1):
+        meteor1.x = 480
+        meteor1.y = 240
+        pg.event.post(pg.event.Event(RED_HIT))
+    if red.colliderect(meteor2):
+        meteor2.x = 480
+        meteor2.y = 240
+        pg.event.post(pg.event.Event(RED_HIT))
+    if red.colliderect(meteor3):
+        meteor3.x = 480
+        meteor3.y = 240
+        pg.event.post(pg.event.Event(RED_HIT))
+
 
 def main():
     red_bullets = []
@@ -192,18 +223,26 @@ def main():
 
     run = True
     while run:
+        key_pressed = pg.key.get_pressed()
         clock.tick(FPS)
         for event in pg.event.get():
             if event.type == pg.QUIT:
                 run = False
-            if event.type == pg.K_LCTRL and len(yellow_bullets) < MAX_BULLETS:
+            if key_pressed[pg.K_LCTRL] and len(yellow_bullets) < MAX_BULLETS:
                 bullet = pg.Rect(yellow.x + yellow.width, yellow.y + yellow.height // 2, 10, 5)
                 yellow_bullets.append(bullet)
                 BULLET_FIRE_SOUND.play()
-            if event.type == pg.K_RCTRL and len(red_bullets) < MAX_BULLETS:
+            if key_pressed[pg.K_RCTRL] and len(red_bullets) < MAX_BULLETS:
                 bullet = pg.Rect(red.x, red.y + red.height // 2, 10, 5)
                 red_bullets.append(bullet)
                 BULLET_FIRE_SOUND.play()
+            if event.type == RED_HIT:
+                red_health -= 1
+                BULLET_FIRE_SOUND.play()
+            if event.type == YELLOW_HIT:
+                yellow_health -= 1
+                BULLET_FIRE_SOUND.play()
+
         winner_text = ""
         if red_health <= 0:
             winner_text = "Yellow wins!"
@@ -212,11 +251,11 @@ def main():
         if winner_text != "":
             draw_winner(winner_text)
             break
-        key_pressed = pg.key.get_pressed()
+
         yellow_control(key_pressed, yellow)
         red_control(key_pressed, red)
         meteor_controller(meteor1, meteor2, meteor3)
-        handle_bullets(yellow_bullets, red_bullets, yellow, red)
+        handle_bullets(yellow_bullets, red_bullets, yellow, red, meteor1, meteor2, meteor3)
         draw_window(red, yellow, red_health, yellow_health, red_bullets, yellow_bullets, meteor1, meteor2, meteor3)
     pg.quit()
 
