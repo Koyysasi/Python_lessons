@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2024-11-21">
-      <change afterPath="$PROJECT_DIR$/Scripts/25-01-09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/asd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/library.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/library2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/olympics.csv" afterDir="false" />
+    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2025-01-30">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/aaa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/aaa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/25-01-16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/25-01-16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +76,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "kogasemester2",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -251,7 +246,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734025027441</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2025-01-16">
+      <option name="closed" value="true" />
+      <created>1737049777130</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1737049777130</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2025-01-30">
+      <option name="closed" value="true" />
+      <created>1738254221221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738254221221</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +308,8 @@
     <MESSAGE value="2024-10-10" />
     <MESSAGE value="2024-10-24" />
     <MESSAGE value="2024-11-21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-11-21" />
+    <MESSAGE value="2025-01-16" />
+    <MESSAGE value="2025-01-30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025-01-30" />
   </component>
 </project>
