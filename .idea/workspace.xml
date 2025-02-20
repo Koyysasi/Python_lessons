@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2025-02-06">
+    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2025-02-06 finally working">
+      <change afterPath="$PROJECT_DIR$/Scripts/25-02-06-2-dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/25-02-13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/25-02-20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/25-01-16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/25-01-16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +67,9 @@
     "Python.24-12-12.executor": "Run",
     "Python.25-01-09.executor": "Run",
     "Python.25-01-16.executor": "Run",
+    "Python.25-02-06-2-dict.executor": "Run",
+    "Python.25-02-13.executor": "Run",
+    "Python.25-02-20.executor": "Run",
     "Python.FindBruteForcePassword.executor": "Run",
     "Python.aaa.executor": "Run",
     "Python.main.executor": "Run",
@@ -76,7 +81,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "kogasemester2",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -270,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738859061434</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2025-02-06 finally working">
+      <option name="closed" value="true" />
+      <created>1738861108524</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1738861108524</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,6 +332,7 @@
     <MESSAGE value="2025-01-16" />
     <MESSAGE value="2025-01-30" />
     <MESSAGE value="2025-02-06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025-02-06" />
+    <MESSAGE value="2025-02-06 finally working" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025-02-06 finally working" />
   </component>
 </project>
