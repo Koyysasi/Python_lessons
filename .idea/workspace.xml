@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2025-03-13">
-      <change afterPath="$PROJECT_DIR$/Scripts/25-03-20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Assets/ages.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Assets/names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/Assets/poem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/snake.py" afterDir="false" />
+    <list default="true" id="ccef0a71-8345-488d-a716-9d251c070b3f" name="Changes" comment="2025-04-17">
+      <change afterPath="$PROJECT_DIR$/Scripts/25-05-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/25-05-22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/25-05-29.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +74,9 @@
     "Python.25-03-13.executor": "Run",
     "Python.25-03-20.executor": "Run",
     "Python.25-04-17.executor": "Run",
+    "Python.25-05-15.executor": "Run",
+    "Python.25-05-22.executor": "Run",
+    "Python.25-05-29.executor": "Run",
     "Python.FindBruteForcePassword.executor": "Run",
     "Python.aaa.executor": "Run",
     "Python.cp1250.executor": "Run",
@@ -280,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741888134184</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2025-04-17">
+      <option name="closed" value="true" />
+      <created>1744908905298</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744908905298</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,6 +340,7 @@
     <MESSAGE value="2025-02-06 finally working" />
     <MESSAGE value="2025-02-20" />
     <MESSAGE value="2025-03-13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025-03-13" />
+    <MESSAGE value="2025-04-17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025-04-17" />
   </component>
 </project>
